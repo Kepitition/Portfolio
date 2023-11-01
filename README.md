@@ -1,2 +1,2 @@
 # Portfolio
-EDA and ML Practice for Global AI Hub Project
+EDA and ML Studies for Portftolio. Some projects made for bootcamps or competitions and others by my own. 
